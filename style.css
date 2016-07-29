@@ -2,14 +2,14 @@
 header {
 	font-family: 'PT Sans', sans-serif;
 	text-align: center;
-	background-color: #039be5;
+	background-color: #E91E63;
 	color: white;
 	padding: 0px;
 }
 
 section > div{
 	text-align: left;
-	background-color: #4fc3f7;
+	background-color: #F48FB1;
 	margin: 30px;
 	padding: 20px;
 	border-radius: 20px;
