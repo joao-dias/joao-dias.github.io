@@ -1,0 +1,24 @@
+
+header {
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+	background-color: #039be5;
+	color: white;
+	padding: 0px;
+}
+
+section > div{
+	text-align: left;
+	background-color: #4fc3f7;
+	margin: 30px;
+	padding: 20px;
+	border-radius: 20px;
+	color: black;
+}
+
+body{
+	margin: 0;
+}
+header > img {
+	border-radius: 60px;
+}
